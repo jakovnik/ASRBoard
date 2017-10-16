@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">DA</string>
+    <string name="no">NE</string>
+
+    <string name="input_method_dialog_title">Omogucavanje tastature</string>
+    <string name="input_method_dialog_message">Da li zelite da omogucite ASRBoard?</string>
+
+    <string name="default_input_method_dialog_title">Podrazumevana tastatura</string>
+    <string name="default_input_method_dialog_message">Da li zelite da postavite ASRBoard za podrazumevanu tastaturu?</string>
+
+    <string name="choose_input_method">Omogući ASRBoard tastaturu</string>
+    <string name="change_input_method">Promeni tastaturu</string>
+
+    <string name="input_method_alredy_enabled">ASRBoard tastatura je već omogućena</string>
+    <string name="alredy_default_input_method">ASRBoard tastatura je već podrazumevana tastatura</string>
+</resources>

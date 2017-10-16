@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ASRBoard</string>
+
+    <string name="subtype_en_US">English (US)</string>
+    <string name="speak_now">Speak now</string>
+    <string name="tap_to_pause">Tap to pause</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="comma_button_text">,</string>
+    <string name="dot_button_text">.</string>
+    <string name="question_mark_text">\?</string>
+    <string name="exclamation_mark">!</string>
+    <string name="open_bracket_text">(</string>
+    <string name="close_bracket_text">)</string>
+    <string name="TEXT_SIZE">20sp</string>
+
+    <string name="button_backspace">&#x2190;</string>
+    <string name="ENTER">ENTER</string>
+    <string name="SHIFT_REGULAR">SHIFT</string>
+    <string name="CAPS"><b>CAPS</b></string>
+    <string name="SHIFT_BOLD"><b>SHIFT</b></string>
+
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="input_method_dialog_title">Enable input method</string>
+    <string name="input_method_dialog_message">Do you want to enable ASRBoard as input method?</string>
+
+    <string name="default_input_method_dialog_title">Default input method</string>
+    <string name="default_input_method_dialog_message">Do you want to set ASRBoard as default input method?</string>
+
+    <string name="choose_input_method">Enable ASRBoard as input method</string>
+    <string name="change_input_method">Change input method</string>
+
+    <string name="input_method_alredy_enabled">ASRBoard alredy enabled</string>
+    <string name="alredy_default_input_method">ASRBoard is alredy default input method</string>
+
+    <string name="list_of_available_punctuations">List of available punctuations</string>
+
+</resources>

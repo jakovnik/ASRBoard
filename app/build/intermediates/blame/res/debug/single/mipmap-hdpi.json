@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\niksa_android\\my_projects\\ASRboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\niksa_android\\my_projects\\ASRboard\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\niksa_android\\my_projects\\ASRboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\asrboard_launcher.png",
+        "source": "C:\\Users\\niksa_android\\my_projects\\ASRboard\\app\\src\\main\\res\\mipmap-hdpi\\asrboard_launcher.png"
+    }
+]

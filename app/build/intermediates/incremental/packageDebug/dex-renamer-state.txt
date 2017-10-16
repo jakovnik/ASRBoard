@@ -1,0 +1,7 @@
+#Tue Oct 03 18:25:13 CEST 2017
+base.0=C\:\\Users\\niksa_android\\my_projects\\ASRboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3dfd637fb0e4dde20aca4893eb95da973831c298
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\niksa_android\\my_projects\\ASRboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87dd07c2a83e68409b8f47e2bbab723c17efe312\\classes.dex
+base.1=C\:\\Users\\niksa_android\\my_projects\\ASRboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87dd07c2a83e68409b8f47e2bbab723c17efe312
+file.0=C\:\\Users\\niksa_android\\my_projects\\ASRboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3dfd637fb0e4dde20aca4893eb95da973831c298\\classes.dex

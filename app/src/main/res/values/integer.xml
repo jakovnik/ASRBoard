@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="KEYCODE_CANCEL">-3</integer>
+    <integer name="KEYCODE_DONE">-4</integer>
+    <integer name="KEYCODE_BACKSPACE">-5</integer>
+    <integer name="KEYCODE_DOT">46</integer>
+    <integer name="KEYCODE_COMMA">44</integer>
+    <integer name="KEYCODE_LISTEN">1</integer>
+    <integer name="KEYCODE_SETTINGS">-1</integer>
+    <integer name="KEYCODE_ENTER">66</integer>
+    <integer name="KEYCODE_NUMPAD_LEFT_PAREN">162</integer>
+    <integer name="KEYCODE_NUMPAD_RIGHT_PAREN">163</integer>
+    <integer name="KEYCODE_SEMICOLON">74</integer>
+    <integer name="KEYCODE_COLON">75</integer>
+    <integer name="KEYCODE_SPACE">62</integer>
+    <integer name="KEYCODE_QUESTIONMARK">63</integer>
+    <integer name="KEYCODE_EXCLAMATIONMARK">33</integer>
+    <integer name="KEYCODE_SHIFT">-2</integer>
+
+</resources>

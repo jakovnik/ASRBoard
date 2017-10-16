@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ftn.robert.asrboard.ASRKeyboardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:background="#ECEFF1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/gear"
+                android:id="@+id/settingButton"
+                android:scaleType="fitCenter"
+                android:tag="@integer/KEYCODE_SETTINGS"
+                android:layout_alignParentStart="true"
+                android:background="@null"
+                android:padding="5dp"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ftn_logo"
+                android:scaleType="fitCenter"
+                android:padding="5dp"/>
+
+            <ImageButton
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:id="@+id/closeButton"
+                android:background="@null"
+                android:src="@drawable/close"
+                android:scaleType="fitCenter"
+                android:tag="@integer/KEYCODE_DONE"
+                android:paddingEnd="10dp"
+                android:paddingStart="0dp"
+                android:paddingTop="10dp"
+                android:layout_alignParentEnd="true"
+                android:padding="5dp"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_height="match_parent"
+            android:text="@string/tap_to_speak"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:textSize="20sp"
+            android:id="@+id/statusText"
+            android:textColor="@color/colorGrey"/>
+
+        <!-- LISTEN BUTTON -->
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:id="@+id/listenButton"
+            android:src="@drawable/microphone_inactive"
+            android:gravity="center_horizontal"
+            android:scaleType="fitCenter"
+            android:background="@null"
+            android:tag="@integer/KEYCODE_LISTEN"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp" />
+
+        <ftn.robert.asrboard.SoftKeyboardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/softKeyboard"/>
+
+    </LinearLayout>
+</ftn.robert.asrboard.ASRKeyboardView>

@@ -1,0 +1,19 @@
+<body>
+<h1>ASRBoard IME</h1>
+<p>ASRBoard je Input Method Editor (IME) koji implementira Android Speech
+Recognition API na srpkom jeziku.</p>
+<p>Vizuelno se sastoji iz tastature sa dugmićima, kao i tri kontrolna dugmeta: dugme za
+pokretanje/zaustavljanje ASR sistema, dugme za pokretanje prozora za podešavanje, kao i
+dugmeta za sakrivanje tastature.</p>
+<p>Kada se startuje ASR servis korisnik može početi sa diktiranjem svog teksta. IME implementira
+sledeće logičke funkcije:</p>
+<ul>
+    <li>Prepoznaje kada je početak rečenice i stavlja veliko početno slovo.</li>
+    <li>Prepoznaje reči koje imaju značenje znaka interpunkcije i zamenjuje ih odgovarajućim znakom.</li>
+</ul>
+<p>Tastatura se sastoji iz dugmića za znake interpunkcije, znak razmaka, kao i tri kontrolna dugmeta:
+BACKSPACE, SHIFT i ENTER. Kada je aktivan ASR sistem, pritiskom na neki od dugmića za znake interpunkcije
+nema za posledicu njihovo istovremeno pojavljivanje u TextEdit polju na koji je IME povezan, već se
+pritisnuti znaci interpunkcije smeštaju u niz karaktera. Po završetku ASR sistema, niz karaktera se
+potom unosi u TextEdit polje nakon izdiktiranog teksta i to po redosledu njihovog pritiskanja.</p>
+</body>
